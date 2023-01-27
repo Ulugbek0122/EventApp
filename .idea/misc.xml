@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/activ.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/bg_item_event_image.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/ic_airplane_mode_off_svgrepo_com.xml" value="0.1" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/ic_airplane_mode_svgrepo_com.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/ic_battery_full_svgrepo_com.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/ic_battery_low_svgrepo_com__1_.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/ic_bell_svgrepo_com.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/ic_bluetooth_of.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/ic_bluetooth_off_svgrepo_com.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/ic_bluetooth_on.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/ic_charger_svgrepo_com.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/ic_charger_svgrepo_com__1_.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/ic_headphone_off.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/ic_headphones_on.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/ic_wifi_off.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/ic_wifi_on.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/no_activ.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/screen_off.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/drawable/screen_on.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/layout/dialog_menu_bottom.xml" value="0.1685185185185185" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/layout/list_item_event.xml" value="0.22" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/layout/screen_about.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/layout/screen_main.xml" value="0.2" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/layout/screen_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.114" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp1/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp1/app/src/main/res/layout/list_item_event.xml" value="0.2" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp1/app/src/main/res/layout/screen_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ulug'bek/Downloads/Telegram Desktop/EventApp1/app/src/main/res/layout/screen_splash.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
